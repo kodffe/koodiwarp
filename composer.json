@@ -2,7 +2,7 @@
     "name": "kodffe/koodiwarp",
     "description": "Built version of TurboWarp Scratch GUI for Drupal integration",
     "type": "drupal-library",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "license": "MIT",
     "extra": {
         "installer-name": "scratch-editor"
